@@ -68,7 +68,8 @@ h1, h2 {
 .project-links a {
   display: inline-block;
   margin-right: 10px;
-  background-color: #99ad9d;
+  background-color: #E3A29C;
+/*   #99ad9d; */
   color: #ddd; /* light grey color */
   padding: 5px 10px;
   border-radius: 5px;
