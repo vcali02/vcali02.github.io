@@ -1,10 +1,10 @@
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
-  color: #333;
+  color: #d1e3d5; /*sage color*/
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #f4f4f4 ;
 }
 
 header p {
@@ -14,8 +14,8 @@ header p {
 }
 
 header {
-  background-color: #333;
-  color: #fff;
+  background-color: #d1e3d5;
+  color: #fff; /*white color*/
   padding: 20px 0;
   text-align: center;
   box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.1);
@@ -68,7 +68,7 @@ h1, h2 {
 .project-links a {
   display: inline-block;
   margin-right: 10px;
-  background-color: #333;
+  background-color: #d1e3d5;
   color: #ddd; /* light grey color */
   padding: 5px 10px;
   border-radius: 5px;
@@ -95,7 +95,7 @@ h1, h2 {
 }
 
 footer {
-  background-color: #333;
+  background-color: #d1e3d5;
   color: #fff;
   text-align: center;
   padding: 20px 0;
